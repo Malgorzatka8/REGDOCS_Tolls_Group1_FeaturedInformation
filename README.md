@@ -17,5 +17,6 @@ CSV file includes 14 document attributes:
        'company_name', 'company_name_url', 'commodity', 'year_url', 'year']
        
 High level overview of this dataset available on this dashboard saved on Tableau Public:
+https://public.tableau.com/app/profile/gosia.skwara/viz/Group1-Tolls-FeaturedInformation/Dashboard1?publish=yes
 
 'get requests' are pooled to decrease run time.
